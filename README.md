@@ -47,7 +47,9 @@ We provide an overview of the submission requirements, score distribution, and d
 
 4. **nanoVLM (7.5%) & nanoFlowMatching (7.5%)** — **due 26 April, 23:59**
    - Submit:
-     - Files and detailed instructions will be announced and shared soon.
+     - [`CS503_FM_part4_nanoFlowMatching.ipynb`](/NanoFM_Homeworks/notebooks/CS503_FM_part4_nanoFlowMatching.ipynb) (make sure to execute all cells)
+     - [`dit.py`](/NanoFM_Homeworks/nanofm/modeling/dit.py) with all required sections implemented.
+     - [`rectified_flow.py`](NanoFM_Homeworks/nanofm/models/rectified_flow.py) with all required sections implemented.
 
 For **environment setup, training commands, and cluster (SCITAS/IZAR) usage** related to `nanoGPT`, `nanoMaskGIT`, and `nano4M`, please see the detailed instructions in [`NanoFM_Homeworks/README.md`](/NanoFM_Homeworks/README.md).
 
