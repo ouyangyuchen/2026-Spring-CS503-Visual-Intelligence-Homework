@@ -221,3 +221,8 @@ __marimo__/
 clevr_com_304/
 
 wandb/
+
+outputs/
+
+**.err
+**.out
